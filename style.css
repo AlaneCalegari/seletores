@@ -1,0 +1,32 @@
+
+* {
+    box-sizing: border-box;
+}
+
+.vermelho, .azul, .verde, .amarelo {
+
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+.vermelho {    
+    background-color: red;
+}
+
+.azul {  
+    background-color: lightblue;
+    }
+
+.verde {    
+    background-color: green;
+    }
+
+.amarelo {    
+    background-color: yellow;
+    }
+    
+#borda {
+    border: 1px solid black;
+}
+
